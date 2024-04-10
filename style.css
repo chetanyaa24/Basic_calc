@@ -1,0 +1,39 @@
+#contanier{
+    border: 2px solid black;
+    background-color: azure;
+    border-radius: 10px;
+    width: 250px;
+    margin-left: 625px;
+    margin-top: 60px;
+
+}
+
+#display{
+    margin: 15px 30px 10px 22px;
+    height: 50px;
+    width: 200px;
+    font-size: large;
+}
+.butt{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.r1{
+    height: 50px;
+    width: 60px;
+    text-align: center;
+    background-color: rgb(245, 193, 193);
+    margin: 4px;
+    font-weight: bold;
+    font-size: 30px;
+}
+#head{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    background-color: beige;
+    font-style: italic;
+    animation: marquee 2s linear infinite;
+}
